@@ -1,0 +1,30 @@
+# Web app framework
+streamlit
+
+# Core LangChain packages
+langchain
+langchain-community
+langchain-core
+langchainhub
+
+# FAISS vector store
+faiss-cpu
+
+# Embeddings and transformer models
+sentence-transformers
+huggingface-hub
+transformers
+torch
+
+# PDF parsing
+pypdf
+
+# Environment variable management
+python-dotenv
+
+# Ollama integration
+ollama
+
+# Utilities
+tqdm
+numpy
