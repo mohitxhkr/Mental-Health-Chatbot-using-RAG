@@ -5,7 +5,7 @@ A compassionate and supportive mental health chatbot powered by **LangChain**, *
 ---
 
 ## 📸 Demo
-![chatbot-ui](python -m streamlit run d:\Project\RAG\app.py)
+![chatbot-ui](python -m streamlit run d:\Project\RAG\main.py)
 
 ---
 
