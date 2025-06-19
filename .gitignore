@@ -1,7 +1,51 @@
-AI Mental Health Chatbot using RAG.pptx
-venv
+# Python bytecode
 __pycache__/
-*.pyc
-*.pyo
-.devcontainer
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Environment variables / secrets
 .env
+*.env
+
+# Streamlit cache & settings
+.streamlit/
+
+# VSCode & other IDE/editor settings
+.vscode/
+.idea/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# FAISS index files (optional)
+*.faiss
+*.index
+
+# Model files (optional – prevent uploading large models)
+*.bin
+*.pt
+*.ckpt
+
+
+# Custom RAG data or embeddings cache (optional)
+data_cache/
+embeddings_cache/
+
+# Coverage reports
+coverage/
+*.cover
+*.py,cover
+
+# Pytest
+.cache/
+.pytest_cache/
