@@ -1,1 +1,5 @@
 AI Mental Health Chatbot using RAG.pptx
+venv
+__pycache__/
+*.pyc
+*.pyo
